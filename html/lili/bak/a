@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>for love</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<h1>I love you lili<br/>
+            丽丽</h1>
+<canvas></canvas>
+<script src="./index.js"></script>
+</body>
+</html>
